@@ -107,23 +107,23 @@ export function CreateAdModal() {
                                 className={`w-8 h-8 rounded ${weekDays.includes('1') ? 'bg-violet-500' : 'bg-zinc-900'}`}>S</ToggleGroup.Item>
                             <ToggleGroup.Item 
                                 value="2" 
-                                title='Terça' cl
+                                title='Terça'
                                 className={`w-8 h-8 rounded ${weekDays.includes('2') ? 'bg-violet-500' : 'bg-zinc-900'}`}>T</ToggleGroup.Item>
                             <ToggleGroup.Item 
                                 value="3" 
-                                title='Quarta' c
+                                title='Quarta'
                                 className={`w-8 h-8 rounded ${weekDays.includes('3') ? 'bg-violet-500' : 'bg-zinc-900'}`}>Q</ToggleGroup.Item>
                             <ToggleGroup.Item 
                                 value="4" 
-                                title='Quinta' c
+                                title='Quinta'
                                 className={`w-8 h-8 rounded ${weekDays.includes('4') ? 'bg-violet-500' : 'bg-zinc-900'}`}>Q</ToggleGroup.Item>
                             <ToggleGroup.Item 
                                 value="5" 
-                                title='Sexta' cl
+                                title='Sexta'
                                 className={`w-8 h-8 rounded ${weekDays.includes('5') ? 'bg-violet-500' : 'bg-zinc-900'}`}>S</ToggleGroup.Item>
                             <ToggleGroup.Item 
                                 value="6" 
-                                title='Sábado' c
+                                title='Sábado'
                                 className={`w-8 h-8 rounded ${weekDays.includes('6') ? 'bg-violet-500' : 'bg-zinc-900'}`}>S</ToggleGroup.Item>
 
                         </ToggleGroup.Root>
